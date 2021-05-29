@@ -54,5 +54,5 @@ Microcontroller(
 [![Linkedin](https://img.shields.io/badge/-Bintang_Fajarianto-blue?style=flat&logo=Linkedin&logoColor=EEEEEE&link=https://www.linkedin.com/in/bintang-fajarianto-406b68137)](https://www.linkedin.com/in/bintang-fajarianto-406b68137)
 
 ## 📫 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bintangfrnz&show_icons=true&theme=react)
+![Stats](https://github-readme-stats.vercel.app/api?username=bintangfrnz&hide=issues,stars&show_icons=true&theme=react)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfrnz&layout=compact&theme=react)](https://github.com/bintangfrnz/github-readme-stats)
