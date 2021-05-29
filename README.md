@@ -55,4 +55,4 @@ Microcontroller(
 
 ## 📫 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=bintangfrnz&hide=issues,stars&show_icons=true&theme=react)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfrnz&layout=compact&theme=react)](https://github.com/bintangfrnz/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfrnz&layout=compact&theme=react)](https://github.com/bintangfrnz/bintangfrnz)
