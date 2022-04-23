@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 
 ## Hello There 👋
 Hi, I'm Bintang. 
-I'm an Undergraduate Informatics Engineering Student at Bandung Institute of Technology (ITB).<br>
-I love to try somethin' new and experiment with new technologies, especially in the areas that I'm interested in like computer vision and IoT.
+I'm a Junior informatics engineering student at Bandung Institute of Technology (ITB).<br>
+I love to try somethin' new and experiment with new technologies. I've a great interest in Mobile Development, currently exploring both Android and iOS native.
 
 <!-- References: https://devdocs.io/-->
 - 💁🏽‍♂️ **Languages** :
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&link=https://www.python.org/)](https://www.python.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=Kotlin&link=https://kotlinlang.org/)](https://kotlinlang.org/)
 [![Dart](https://img.shields.io/badge/-Dart-black?style=flat&logo=Dart&link=https://dart.dev/)](https://dart.dev/)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&link=https://www.java.com/)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=C%2B%2B&link=https://devdocs.io/cpp/)](https://devdocs.io/cpp/)
@@ -36,22 +37,29 @@ I love to try somethin' new and experiment with new technologies, especially in 
 [![GO](https://img.shields.io/badge/-Go-black?style=flat&logo=Go&link=https://golang.org/)](https://golang.org/)
 -->
 
+<!--
 - 🧩 **Frameworks** :
 [![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=Flutter&link=https://flutter.dev/)](https://flutter.dev/)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask&link=https://flask.palletsprojects.com/en/2.0.x/)](https://flask.palletsprojects.com/en/2.0.x/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=OpenCV&link=https://opencv.org/)](https://opencv.org/)
+-->
+
 <!--
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=Bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&link=https://reactjs.org/)](https://reactjs.org/)
 -->
 
+<!--
 - ✨ **DB** :
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&link=https://www.mysql.com/)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=PostgreSQL&link=https://www.postgresql.org/)](https://www.postgresql.org/)
+-->
 
+<!--
 - 🔭 **Microcontroller** :
 [![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat&logo=Arduino&link=http://esp32.net/)](http://esp32.net/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&link=https://www.arduino.cc/)](https://www.arduino.cc/)
+-->
 
 ## 💬 Connect with me
 [![Gmail](https://img.shields.io/badge/-Bintang_Fajarianto-D44638?style=flat&logo=Gmail&logoColor=EEEEEE&link=mailto:13519138@std.stei.itb.ac.id)](mailto:13519138@std.stei.itb.ac.id)
