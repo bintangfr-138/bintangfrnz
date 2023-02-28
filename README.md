@@ -1,5 +1,5 @@
 <!--
-**bintangfrnz/bintangfrnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bintangfr-138/bintangfr-138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -70,5 +70,5 @@ I love to try somethin' new and experiment with new technologies. I've a great i
 -->
 
 ## 📫 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bintangfrnz&hide=issues,stars&show_icons=true&theme=react)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfrnz&layout=compact&theme=react)](https://github.com/bintangfrnz/bintangfrnz)
+![Stats](https://github-readme-stats.vercel.app/api?username=bintangfr-138&hide=issues,stars&show_icons=true&theme=react)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfr-138&layout=compact&theme=react)](https://github.com/bintangfr-138/bintangfr-138)
