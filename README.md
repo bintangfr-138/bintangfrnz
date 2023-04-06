@@ -1,5 +1,5 @@
 <!--
-**bintangfr-138/bintangfr-138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bintangfrnz/bintangfrnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello There 👋
 Hi, I'm Bintang. 
-I'm a Junior informatics engineering student at Bandung Institute of Technology (ITB).<br>
+I'm a Senior informatics engineering student at Bandung Institute of Technology (ITB).<br>
 I love to try somethin' new and experiment with new technologies. I've a great interest in Mobile Development, currently exploring both Android and iOS native.
 
 <!-- References: https://devdocs.io/-->
@@ -31,9 +31,6 @@ I love to try somethin' new and experiment with new technologies. I've a great i
 [![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5&link=https://devdocs.io/html/)](https://devdocs.io/html/)
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&link=https://devdocs.io/css/)](https://devdocs.io/css/)
 [![Javascript](https://img.shields.io/badge/-JS-black?style=flat&logo=Javascript&link=https://devdocs.io/javascript/)](https://devdocs.io/javascript/)
--->
-
-<!-- OTW
 [![GO](https://img.shields.io/badge/-Go-black?style=flat&logo=Go&link=https://golang.org/)](https://golang.org/)
 -->
 
@@ -42,9 +39,6 @@ I love to try somethin' new and experiment with new technologies. I've a great i
 [![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=Flutter&link=https://flutter.dev/)](https://flutter.dev/)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask&link=https://flask.palletsprojects.com/en/2.0.x/)](https://flask.palletsprojects.com/en/2.0.x/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=OpenCV&link=https://opencv.org/)](https://opencv.org/)
--->
-
-<!--
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=Bootstrap&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=React&link=https://reactjs.org/)](https://reactjs.org/)
 -->
@@ -70,5 +64,5 @@ I love to try somethin' new and experiment with new technologies. I've a great i
 -->
 
 ## 📫 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bintangfr-138&hide=issues,stars&show_icons=true&theme=react)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfr-138&layout=compact&theme=react)](https://github.com/bintangfr-138/bintangfr-138)
+![Stats](https://github-readme-stats.vercel.app/api?username=bintangfrnz&hide=issues,stars&show_icons=true&theme=react)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfrnz&layout=compact&theme=react)](https://github.com/bintangfrnz/bintangfrnz)
