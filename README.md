@@ -63,6 +63,8 @@ I love to try somethin' new and experiment with new technologies. I've a great i
 [![Website](https://img.shields.io/badge/-frnzoshi.tech-405DE6?style=flat&logo=React&logoColor=EEEEEE&link=http://frnzoshi.tech)](http://google.com)
 -->
 
+<!--
 ## 📫 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=bintangfrnz&hide=issues,stars&show_icons=true&theme=react)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfrnz&layout=compact&theme=react)](https://github.com/bintangfrnz/bintangfrnz)
+-->
